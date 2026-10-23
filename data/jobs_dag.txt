@@ -1,0 +1,9 @@
+# 6 jobs, edge u v d = "u must finish before v starts", d = hand-over time
+6 7 directed
+0 1 3
+0 2 2
+1 3 4
+2 3 1
+3 4 5
+2 5 7
+4 5 1
